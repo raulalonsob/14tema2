@@ -1,0 +1,51 @@
+body {
+	background: #f0f3f5;
+	color: #fff;
+	text-align: center;
+}
+
+.header {
+	background: #9aca40;
+	padding: 10px;
+	margin-bottom: 20px;
+}
+
+.contenedor-main {
+	margin-bottom: 20px;
+}
+
+main {
+	background: #fff;
+	color: #424242;
+	padding: 20px 0
+}
+
+aside > div{
+	background: #afafaf;
+	padding: 60px 0;
+	color: #2806e7;
+	margin: 20px;
+}
+
+.widgets {
+	background: #f2f2f2;
+	color: #424242;
+	margin-bottom: 20px;
+}
+
+.widgets > div {
+	background: #2196f3;
+	color: #fff;
+	padding: 20px;
+}
+
+footer {
+	background: #eb0909;
+	height: 10em; 
+}
+footer > div{
+	padding: 20px 0;
+	background: #1e1e1e;
+	margin: 30px;
+}
+
